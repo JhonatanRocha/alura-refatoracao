@@ -8,3 +8,4 @@
 *.classpath
 
 *.gitignore
+/bin/
